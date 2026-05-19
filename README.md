@@ -1,1 +1,7 @@
-# utkashshigh997
+- 👋 Hi, I’m utkarshsingh997
+- 👀 I’m interested in tech,games, AI, LLM and future
+- 🌱 I’m currently learning fullstack and typescript
+- 💞️ I’m looking to collaborate on building websites and apps
+- 📫 How to reach me singhrajpututksrsh02@gmail.com
+- 😄 Pronouns he/him
+- ⚡ Fun fact: computers are smater and dumber than humans. So they also need us In future 
